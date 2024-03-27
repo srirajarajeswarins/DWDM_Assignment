@@ -94,7 +94,7 @@ def fpgrowth(transactions, min_support, header_table):
 
 
 def main(header_table):
-    st.title("FP-Growth Algorithm with Streamlit")
+    st.title("FP-Growth Algorithm ")
 
     st.write("Enter the transactions one by one below. Press Enter on an empty input to finish.")
 
